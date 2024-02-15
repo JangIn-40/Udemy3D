@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Udemy3D.sln"
+    "dotnet.defaultSolution": "Udemy3D.sln",
+    "FSharp.suggestGitignore": false
 }
